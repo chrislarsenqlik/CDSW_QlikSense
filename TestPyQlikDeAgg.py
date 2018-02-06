@@ -1,8 +1,3 @@
-from pyqlikengine.engine_communicator import EngineCommunicator
-from pyqlikengine.engine_global_api import EngineGlobalApi
-from pyqlikengine.engine_app_api import EngineAppApi
-from pyqlikengine.engine_communicator import SecureEngineCommunicator
-
 host = "cloudera.qlik.com"
 proxyPrefix = "jupyter"
 userDirectory = "CLOUDERA"
